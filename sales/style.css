@@ -1,0 +1,20 @@
+body{
+    background-image: url(bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+form{
+    align-self: center;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    padding: 45px;
+    background-color: coral;
+    box-shadow: 10px 10px 5px lightblue inset;
+}
+.form-group{
+    display: inline-block;
+}
+.a{
+    border-radius: 50;
+}
